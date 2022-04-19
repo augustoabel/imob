@@ -1,2 +1,2 @@
 # imob
-Imobiliária 
+Sistema simples para corretor imobiliário
